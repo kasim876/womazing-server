@@ -11,11 +11,13 @@ app.use(express.json());
 app.use(express.static('static'));
 app.use(router);
 
+const port = process.env.PORT || 9001;
+
 const start = async () => {
   try {
     await sequelize.authenticate();
     await sequelize.sync();
-    app.listen(process.env.PORT, () => console.log('Server started on port %d', process.env.PORT));
+    app.listen(port, () => console.log('Server started on port %d', port));
   } catch (error) {
     console.log(error)
   }
