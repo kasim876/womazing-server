@@ -4,8 +4,8 @@
   "description": "backend for internet shop",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon index.js",
-    "prod": "node index.js"
+    "start": "nodemon index.js",
+    "build": "node index.js"
   },
   "author": "Maxim Lukashenko",
   "license": "ISC",
