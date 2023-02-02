@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c2359f8-9c8b-45ad-97de-aaa7a091c09d" name="Changes" comment="edit db connection" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2L9AtIUBTJ6UIQh087UunkNzsI6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c2359f8-9c8b-45ad-97de-aaa7a091c09d" name="Changes" comment="" />
+      <created>1675273139941</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675273139941</updated>
+      <workItem from="1675273141252" duration="6775000" />
+    </task>
+    <task id="LOCAL-00001" summary="production commit">
+      <created>1675273236856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675273236856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit npm commands">
+      <created>1675273298733</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675273298733</updated>
+    </task>
+    <task id="LOCAL-00003" summary="vercel add">
+      <created>1675274089602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675274089602</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add engines">
+      <created>1675274826108</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1675274826108</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit vercel config">
+      <created>1675275397807</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675275397807</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit vercel config">
+      <created>1675275808483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675275808483</updated>
+    </task>
+    <task id="LOCAL-00007" summary="remove vercel">
+      <created>1675275945005</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675275945005</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add vercel">
+      <created>1675280002346</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1675280002346</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edit vercel">
+      <created>1675280300873</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675280300873</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add node_modules">
+      <created>1675280401642</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675280401642</updated>
+    </task>
+    <task id="LOCAL-00011" summary="remove node_modules">
+      <created>1675280918628</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675280918628</updated>
+    </task>
+    <task id="LOCAL-00012" summary="remove node_modules">
+      <created>1675281055587</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1675281055587</updated>
+    </task>
+    <task id="LOCAL-00013" summary="edit db connection">
+      <created>1675281462021</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1675281462021</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="production commit" />
+    <MESSAGE value="edit npm commands" />
+    <MESSAGE value="vercel add" />
+    <MESSAGE value="add engines" />
+    <MESSAGE value="edit vercel config" />
+    <MESSAGE value="remove vercel" />
+    <MESSAGE value="add vercel" />
+    <MESSAGE value="edit vercel" />
+    <MESSAGE value="add node_modules" />
+    <MESSAGE value="remove node_modules" />
+    <MESSAGE value="edit db connection" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit db connection" />
+  </component>
+</project>

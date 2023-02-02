@@ -8,7 +8,7 @@ const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use(express.static('static'));
+app.use(express.static('./static'));
 app.use(router);
 
 const port = process.env.PORT || 9001;
